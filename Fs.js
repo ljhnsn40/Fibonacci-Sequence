@@ -20,3 +20,4 @@ function Recursive(n) {
   console.log(Recursive(11)); // 11th number //
 
   // n is the number of inputs//
+
